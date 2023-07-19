@@ -8,4 +8,4 @@ Laboratory work for the 4th semester on the course Algorithms and Data Structure
 
 
 
- ~~*матерится по-программистски*~~
+> ~~*матерится по-программистски*~~
