@@ -45,7 +45,6 @@ int main() {
     std::cin >> s;
     std::cout << "Введите проверяемую подстроку t" << std::endl;
     std::cin >> t;
-    prefixFunction(s);
     int pos = KMP_search(s, t, 0);
     if (pos == -1) {
         std::cout << "Подстрока не найдена" << std::endl;
